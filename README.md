@@ -1,1 +1,1 @@
-# Ex-SpringBoot
+This is a repository created for every single exercise on Spring Boot what i do on my own.
